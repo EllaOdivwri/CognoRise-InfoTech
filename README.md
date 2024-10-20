@@ -1,5 +1,6 @@
 # CognoRise-InfoTech
 AI Projects Collection
+
 A bunch of cool AI projects using Python and JavaScript-- think games and a digit recogniser.
 
 Task 1: TIC TAC TOE AI
